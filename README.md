@@ -15,3 +15,7 @@ Calendário com informações sobre leituras e atividades da disciplina. Está e
 
 Prof. [Enric Llagostera](http://enric.llagostera.com.br).
 Email: enricllagostera@gmail.com.
+
+Todo o conteúdo original deste repositório e sua wiki está sob a licença [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), a não ser quando marcado de outra forma. 
+
+[![](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
